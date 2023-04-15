@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TBike"
+    },
+    {
+      "name": "HarmonyHeiTi",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "Login_UserName_PlaceHolder",
+      "value": "用户名"
+    },
+    {
+      "name": "Login_UserPassword_PlaceHolder",
+      "value": "密码"
+    },
+    {
+      "name": "Login_UserForget_Password",
+      "value": "忘记密码？"
+    },
+    {
+      "name": "Login_Action",
+      "value": "登 录"
+    },
+    {
+      "name": "HarmonyHeiTi_Bold",
+      "value": "HarmonyHeiTi-Bold"
+    },
+    {
+      "name": "Login_to_Signup",
+      "value": "没有账号？点此注册"
+    },
+    {
+      "name": "SginUp_Action",
+      "value": "注 册"
+    },
+    {
+      "name": "SignUp_to_Login",
+      "value": "已有账号？点此登录"
+    },
+    {
+      "name": "Sign_Nick_Name",
+      "value": "姓名"
+    },
+    {
+      "name": "Sign_Phone_Number",
+      "value": "手机号"
+    },
+    {
+      "name": "Sign_Confirm_Password",
+      "value": "确认密码"
+    }
+  ]
+}

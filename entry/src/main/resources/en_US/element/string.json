@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TBike"
+    },
+    {
+      "name": "HarmonyHeiTi",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "Login_UserName_PlaceHolder",
+      "value": "Username"
+    },
+    {
+      "name": "Login_UserPassword_PlaceHolder",
+      "value": "Password"
+    },
+    {
+      "name": "Login_UserForget_Password",
+      "value": "Forget Password?"
+    },
+    {
+      "name": "Login_Action",
+      "value": "Login"
+    },
+    {
+      "name": "HarmonyHeiTi_Bold",
+      "value": "HarmonyHeiTi-Bold"
+    },
+    {
+      "name": "Login_to_Signup",
+      "value": "Don't have an account? Click here to register"
+    },
+    {
+      "name": "SginUp_Action",
+      "value": "Sing Up"
+    },
+    {
+      "name": "SignUp_to_Login",
+      "value": "Already have an account? Click here to log in"
+    },
+    {
+      "name": "Sign_Nick_Name",
+      "value": "Name"
+    },
+    {
+      "name": "Sign_Phone_Number",
+      "value": "Phone Number"
+    },
+    {
+      "name": "Sign_Confirm_Password",
+      "value": "Confirm Password"
+    }
+  ]
+}

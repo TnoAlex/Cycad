@@ -1,0 +1,507 @@
+{
+    "document": {
+        "VisualVersion": "12",
+        "type": "ETS",
+        "custom": false,
+        "path": "/entry/src/main/supervisual/pages/Login"
+    },
+    "visualModel": {
+        "dataType": "VisualModel",
+        "value": {
+            "property": {
+                "dataType": "Map",
+                "value": {
+                    "width": "100%",
+                    "height": "100%",
+                    "align-items-column": "flex-end"
+                }
+            },
+            "dynamicProperty": {
+                "dataType": "Map",
+                "value": {}
+            },
+            "children": [
+                {
+                    "dataType": "VisualModel",
+                    "value": {
+                        "property": {
+                            "dataType": "Map",
+                            "value": {
+                                "width": "100%",
+                                "height": "100%",
+                                "justify-content": "flex-start",
+                                "align-items-flex": "center",
+                                "flex-direction": "column",
+                                "align-content": "space-around"
+                            }
+                        },
+                        "dynamicProperty": {
+                            "dataType": "Map",
+                            "value": {}
+                        },
+                        "children": [
+                            {
+                                "dataType": "VisualModel",
+                                "value": {
+                                    "property": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "width": "100%",
+                                            "height": "200vp",
+                                            "margin-top": "0",
+                                            "justify-content-rc": "center",
+                                            "align-items-row": "flex-start",
+                                            "align-self": "baseline"
+                                        }
+                                    },
+                                    "dynamicProperty": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "children": [
+                                        {
+                                            "dataType": "VisualModel",
+                                            "value": {
+                                                "propertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {
+                                                        "source-size-width": "1740px",
+                                                        "source-size-height": "711px"
+                                                    }
+                                                },
+                                                "dynamicPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "mediaPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "dynamicMediaPropertyStorage": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "property": {
+                                                    "dataType": "Map",
+                                                    "value": {
+                                                        "height": "200vp",
+                                                        "src": "$r('app.media.login_top')",
+                                                        "object-fit": "cover",
+                                                        "margin-top": "-25vp",
+                                                        "width": "100%",
+                                                        "align": "top-start"
+                                                    }
+                                                },
+                                                "dynamicProperty": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "children": [],
+                                                "id": "image1",
+                                                "type": "image"
+                                            }
+                                        }
+                                    ],
+                                    "id": "row1",
+                                    "type": "row"
+                                }
+                            },
+                            {
+                                "dataType": "VisualModel",
+                                "value": {
+                                    "propertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "background-color": "rgba(255,255,255,0)"
+                                        }
+                                    },
+                                    "dynamicPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "mediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicMediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "property": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "width": "100%",
+                                            "height": "36vp",
+                                            "left": "-0.39px",
+                                            "top": "-486.89px",
+                                            "src": "$r('app.media.arrow_left')",
+                                            "onClick": "this.goBack",
+                                            "onTouch": "this.goBack",
+                                            "align-self": "baseline",
+                                            "position": "relative",
+                                            "object-fit": "contain",
+                                            "margin-left": "-150vp"
+                                        }
+                                    },
+                                    "dynamicProperty": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "if": "this.isGoBackShow"
+                                        }
+                                    },
+                                    "children": [],
+                                    "id": "image3",
+                                    "type": "image"
+                                }
+                            },
+                            {
+                                "dataType": "VisualModel",
+                                "value": {
+                                    "property": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "width": "81vp",
+                                            "height": "81vp",
+                                            "left": "0px",
+                                            "top": "-124.78px",
+                                            "src": "$r('app.media.logo')",
+                                            "align-self": "center"
+                                        }
+                                    },
+                                    "dynamicProperty": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "children": [],
+                                    "id": "image2",
+                                    "type": "image"
+                                }
+                            },
+                            {
+                                "dataType": "VisualModel",
+                                "value": {
+                                    "propertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "mediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicMediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "property": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "height": "60vp",
+                                            "width": "260vp",
+                                            "left": "0px",
+                                            "top": "-26.45px",
+                                            "align-self": "center",
+                                            "onChange": "this.onUserNameInputChange"
+                                        }
+                                    },
+                                    "dynamicProperty": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "placeholderColor": "$r('app.color.grey')",
+                                            "placeholderFont-family": "$r('app.string.HarmonyHeiTi')",
+                                            "placeholder": "$r('app.string.Login_UserName_PlaceHolder')"
+                                        }
+                                    },
+                                    "children": [],
+                                    "id": "text-input1",
+                                    "type": "text-input"
+                                }
+                            },
+                            {
+                                "dataType": "VisualModel",
+                                "value": {
+                                    "propertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "background-color": "$r('app.color.grey')"
+                                        }
+                                    },
+                                    "mediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicMediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "property": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "height": "60vp",
+                                            "width": "260vp",
+                                            "left": "0px",
+                                            "top": "82.38px",
+                                            "textInput-type": "Password",
+                                            "align-self": "center",
+                                            "onChange": "this.onPasswordChange"
+                                        }
+                                    },
+                                    "dynamicProperty": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "placeholder": "$r('app.string.Login_UserPassword_PlaceHolder')",
+                                            "placeholderColor": "$r('app.color.grey')",
+                                            "placeholderFont-family": "$r('app.string.HarmonyHeiTi')"
+                                        }
+                                    },
+                                    "children": [],
+                                    "id": "text-input2",
+                                    "type": "text-input"
+                                }
+                            },
+                            {
+                                "dataType": "VisualModel",
+                                "value": {
+                                    "propertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "mediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicMediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "property": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "height": "20vp",
+                                            "width": "200vp",
+                                            "left": "340.47px",
+                                            "top": "121.96px",
+                                            "text-align": "end",
+                                            "font-size": "14fp",
+                                            "align-self": "baseline",
+                                            "onClick": "this.forgetPassword"
+                                        }
+                                    },
+                                    "dynamicProperty": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "content": "$r('app.string.Login_UserForget_Password')",
+                                            "font-color": "$r('app.color.grey')",
+                                            "font-family": "$r('app.string.HarmonyHeiTi')"
+                                        }
+                                    },
+                                    "children": [],
+                                    "id": "text1",
+                                    "type": "text"
+                                }
+                            },
+                            {
+                                "dataType": "VisualModel",
+                                "value": {
+                                    "propertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "mediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicMediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "property": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "width": "180vp",
+                                            "height": "48vp",
+                                            "left": "0px",
+                                            "top": "232.69px",
+                                            "align-self": "center",
+                                            "type": "capsule",
+                                            "border-left-width": "0",
+                                            "border-left-color": "#ffffff",
+                                            "opacity": "1",
+                                            "background-image-repeat": "no-repeat",
+                                            "font-style": "normal",
+                                            "font-weight": "bold",
+                                            "onClick": "this.doLogin"
+                                        }
+                                    },
+                                    "dynamicProperty": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "background-color": "$r('app.color.orange_light')",
+                                            "label": "$r('app.string.Login_Action')",
+                                            "font-family": "$r('app.string.HarmonyHeiTi_Bold')"
+                                        }
+                                    },
+                                    "children": [],
+                                    "id": "button1",
+                                    "type": "button"
+                                }
+                            },
+                            {
+                                "dataType": "VisualModel",
+                                "value": {
+                                    "propertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "mediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "dynamicMediaPropertyStorage": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "property": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "height": "20vp",
+                                            "width": "200vp",
+                                            "left": "0px",
+                                            "top": "280.02px",
+                                            "text-align": "center",
+                                            "font-size": "12fp",
+                                            "onClick": "this.toSignUp"
+                                        }
+                                    },
+                                    "dynamicProperty": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "content": "$r('app.string.Login_to_Signup')",
+                                            "font-family": "$r('app.string.HarmonyHeiTi')",
+                                            "font-color": "$r('app.color.grey')"
+                                        }
+                                    },
+                                    "children": [],
+                                    "id": "text2",
+                                    "type": "text"
+                                }
+                            },
+                            {
+                                "dataType": "VisualModel",
+                                "value": {
+                                    "property": {
+                                        "dataType": "Map",
+                                        "value": {
+                                            "width": "100%",
+                                            "height": "100vp",
+                                            "left": "0px",
+                                            "top": "347.8px",
+                                            "justify-content-rc": "space-between"
+                                        }
+                                    },
+                                    "dynamicProperty": {
+                                        "dataType": "Map",
+                                        "value": {}
+                                    },
+                                    "children": [
+                                        {
+                                            "dataType": "VisualModel",
+                                            "value": {
+                                                "property": {
+                                                    "dataType": "Map",
+                                                    "value": {
+                                                        "width": "36vp",
+                                                        "height": "36vp",
+                                                        "left": "-115.42px",
+                                                        "top": "96px",
+                                                        "src": "$r('app.media.alipay')",
+                                                        "onClick": "this.aliPayLogin"
+                                                    }
+                                                },
+                                                "dynamicProperty": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "children": [],
+                                                "id": "image4",
+                                                "type": "image"
+                                            }
+                                        },
+                                        {
+                                            "dataType": "VisualModel",
+                                            "value": {
+                                                "property": {
+                                                    "dataType": "Map",
+                                                    "value": {
+                                                        "width": "36vp",
+                                                        "height": "36vp",
+                                                        "left": "118.91px",
+                                                        "top": "-96px",
+                                                        "src": "$r('app.media.wechat')",
+                                                        "onClick": "this.weChatLogin"
+                                                    }
+                                                },
+                                                "dynamicProperty": {
+                                                    "dataType": "Map",
+                                                    "value": {}
+                                                },
+                                                "children": [],
+                                                "id": "image5",
+                                                "type": "image"
+                                            }
+                                        }
+                                    ],
+                                    "id": "column1",
+                                    "type": "column"
+                                }
+                            }
+                        ],
+                        "id": "flex1",
+                        "type": "flex"
+                    }
+                }
+            ],
+            "id": "wrapper",
+            "type": "column"
+        }
+    },
+    "formData": {
+        "data": {
+            "dataType": "Map",
+            "value": {}
+        },
+        "actions": {
+            "dataType": "Map",
+            "value": {}
+        }
+    },
+    "customData": {
+        "property": {
+            "dataType": "Map",
+            "value": {}
+        },
+        "event": {
+            "dataType": "Map",
+            "value": {}
+        }
+    }
+}
