@@ -44,6 +44,7 @@ struct Login {
   doLogin(){
     log.info("do login action")
     log.debug("username:"+this.userName+"password:"+this.password)
+    router.replaceUrl({url:'pages/PatientIndex'})
   }
 
   toSignUp(){

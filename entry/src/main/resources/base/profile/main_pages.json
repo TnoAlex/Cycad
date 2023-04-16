@@ -1,8 +1,9 @@
 {
   "src": [
     "pages/Startup",
-    "pages/Index",
     "pages/Login",
-    "pages/Signup"
+    "pages/Signup",
+    "pages/DoctorIndex",
+    "pages/PatientIndex"
   ]
 }

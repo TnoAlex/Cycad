@@ -59,6 +59,18 @@
     {
       "name": "Sign_Confirm_Password",
       "value": "确认密码"
+    },
+    {
+      "name": "Index_Home",
+      "value": "主页"
+    },
+    {
+      "name": "Index_Mine",
+      "value": "我的"
+    },
+    {
+      "name": "Index_Analyse",
+      "value": "分析"
     }
   ]
 }

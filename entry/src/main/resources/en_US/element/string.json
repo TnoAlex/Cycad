@@ -59,6 +59,18 @@
     {
       "name": "Sign_Confirm_Password",
       "value": "Confirm Password"
+    },
+    {
+      "name": "Index_Home",
+      "value": "Home"
+    },
+    {
+      "name": "Index_Mine",
+      "value": "Mine"
+    },
+    {
+      "name": "Index_Analyse",
+      "value": "Analyse"
     }
   ]
 }

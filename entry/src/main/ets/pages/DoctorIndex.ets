@@ -1,10 +1,7 @@
-import log from '../common/cycadLog'
-
 @Entry
 @Component
-struct Index {
-
-  @State message: string = 'Index'
+struct DoctorIndex {
+  @State message: string = 'Hello World'
 
   /**
    * In low-code mode, do not add anything to the build function, as it will be
@@ -12,9 +9,5 @@ struct Index {
    */
   build() {
 
-  }
-
-  onPageShow(){
-    log.info("in Index Page")
   }
 }

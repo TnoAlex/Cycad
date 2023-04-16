@@ -52,5 +52,6 @@ struct Signup {
 
   doSignup() {
     log.info("do Signup")
+    log.debug("username: " + this.userName + "password: " + this.password + "phone: " + this.phoneNumber + "role: " + this.role)
   }
 }

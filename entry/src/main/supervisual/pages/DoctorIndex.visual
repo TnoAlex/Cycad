@@ -1,7 +1,9 @@
 {
     "document": {
         "VisualVersion": "12",
-        "type": "ETS"
+        "type": "ETS",
+        "custom": false,
+        "path": "/entry/src/main/supervisual/pages/DoctorIndex"
     },
     "visualModel": {
         "dataType": "VisualModel",
@@ -75,6 +77,16 @@
             "value": {}
         },
         "actions": {
+            "dataType": "Map",
+            "value": {}
+        }
+    },
+    "customData": {
+        "property": {
+            "dataType": "Map",
+            "value": {}
+        },
+        "event": {
             "dataType": "Map",
             "value": {}
         }

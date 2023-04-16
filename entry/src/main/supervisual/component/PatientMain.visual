@@ -1,0 +1,48 @@
+{
+    "document": {
+        "VisualVersion": "12",
+        "type": "ETS",
+        "custom": true,
+        "path": "/entry/src/main/supervisual/component/PatientMain"
+    },
+    "visualModel": {
+        "dataType": "VisualModel",
+        "value": {
+            "property": {
+                "dataType": "Map",
+                "value": {
+                    "width": "100%",
+                    "height": "100%"
+                }
+            },
+            "dynamicProperty": {
+                "dataType": "Map",
+                "value": {}
+            },
+            "children": [],
+            "id": "wrapper",
+            "type": "column"
+        }
+    },
+    "formData": {
+        "data": {
+            "dataType": "Map",
+            "value": {}
+        },
+        "actions": {
+            "dataType": "Map",
+            "value": {}
+        }
+    },
+    "customData": {
+        "property": {
+            "dataType": "Map",
+            "value": {}
+        },
+        "event": {
+            "dataType": "Map",
+            "value": {}
+        }
+    },
+    "imgData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIoAAAEsCAYAAAActSsjAAAE9ElEQVR4Xu3SMREAMAwDsYQ/6BRCH4A8e/rT3t2NKfApsKAwUgqAUir5DCgQpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAKgpExOoDCQCoCSMjmBwkAqAErK5AQKA6kAKCmTEygMpAIPLyWsuePy/lYAAAAASUVORK5CYII="
+}
