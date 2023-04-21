@@ -71,6 +71,10 @@
     {
       "name": "Index_Analyse",
       "value": "Analyse"
+    },
+    {
+      "name": "Index_Device",
+      "value": "Device"
     }
   ]
 }

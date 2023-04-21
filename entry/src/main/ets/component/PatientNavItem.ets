@@ -9,6 +9,7 @@ export interface NavItem {
 export enum TabId {
   HOME,
   ANALYSE,
+  DEVICE,
   MINE
 }
 
@@ -24,6 +25,12 @@ export const NavList: NavItem[] = [
     icon_selected: $rawfile('home/analyse_sel.svg'),
     text: $r('app.string.Index_Analyse'),
     id: TabId.ANALYSE
+  },
+  {
+    icon: $rawfile('home/device_nor.svg'),
+    icon_selected: $rawfile('home/device_sel.svg'),
+    text: $r('app.string.Index_Device'),
+    id: TabId.DEVICE
   },
   {
     icon: $rawfile('home/mine_nor.svg'),

@@ -71,6 +71,10 @@
     {
       "name": "Index_Analyse",
       "value": "分析"
+    },
+    {
+      "name": "Index_Device",
+      "value": "设备"
     }
   ]
 }

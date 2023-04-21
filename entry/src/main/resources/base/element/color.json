@@ -39,6 +39,18 @@
     {
       "name": "grey",
       "value": "#C0C0C0"
+    },
+    {
+      "name": "gery_light",
+      "value": "#EBEBE9"
+    },
+    {
+      "name": "gery_light_l",
+      "value": "#F8F8F8"
+    },
+    {
+      "name": "grey_deep",
+      "value": "#808080"
     }
   ]
 }

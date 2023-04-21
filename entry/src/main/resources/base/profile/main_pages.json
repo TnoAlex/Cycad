@@ -4,6 +4,7 @@
     "pages/Login",
     "pages/Signup",
     "pages/DoctorIndex",
-    "pages/PatientIndex"
+    "pages/PatientIndex",
+    "pages/Page"
   ]
 }

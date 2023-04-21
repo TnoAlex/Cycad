@@ -14,6 +14,7 @@
     "@ohos/hvigor": "1.4.0",
     "@ohos/hvigor-ohos-plugin": "1.4.0",
     "@ohos/axios": "latest",
-    "@ohos/fastble": "latest"
+    "@ohos/fastble": "latest",
+    "moment": "latest"
   }
 }

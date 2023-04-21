@@ -27,7 +27,7 @@ struct Startup {
         if(err || !val){
           log.debug("Can not find uTk")
           setTimeout(()=>{
-            router.replaceUrl({url:'pages/Login'})
+            router.replaceUrl({url:'pages/Page'})
           },2000)
         }else{
           log.debug("find uTK")
